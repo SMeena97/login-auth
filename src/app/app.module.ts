@@ -25,7 +25,8 @@ import { LoginComponent } from './login';
     AppComponent,
     LoginComponent,
     LogoutComponent,
-    RegisterComponent
+    RegisterComponent,
+    AlertComponent
   ],
   imports: [
     BrowserModule,
